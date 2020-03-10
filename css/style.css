@@ -1,8 +1,8 @@
 *{margin:0;padding:0}
 
 
-.form{margin:50px auto;background:#a9b0db;width:50%;height:350px;}
-.form h1{text-align:center;}
+.form{margin:50px auto;background:#ebebeb;width:50%;height:350px;}
+.form h1{text-align:center;color:red;}
 #inputs{background:#ebebeb;width:50%;margin:30px auto;padding:10px 0px}
 #inputs h2{text-align:center;}
 #inputs form{margin-left:30%;padding-top:10px;}
